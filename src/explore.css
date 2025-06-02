@@ -1,0 +1,33 @@
+.main {
+    width: 700px;
+    height: 300px;
+    display: grid;
+    grid-template-columns: 0.5fr 1fr;
+}
+
+.inner {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.heading {
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+.head {
+    width: 700px;
+    height: 50px;
+    background-color: red;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 30px;
+}
+
+.oga {
+    margin-left: 400px;
+ 
+}
