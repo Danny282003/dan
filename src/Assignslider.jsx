@@ -6,9 +6,9 @@ function Assignslider({ change }) {
         <ul className=' text-white flex flex-col gap-[30px] pl-[30px] text-6xl'>
           <li className='border border-white'>Home</li>
           <li>About</li>
-          <li>Contact</li>
           <li>Gallery</li>
-          <li>Team</li>
+          <li>Gallery</li>
+          <li>Gallery</li>
         </ul>
     </div>
   )
